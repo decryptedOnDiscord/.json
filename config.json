@@ -1,4 +1,8 @@
 {
-  "EnableLaunchFn" : "false",
-  "Message" : "Test"
+  "Cracky" : [
+    {
+      "EnableLaunchFn" : "false",
+      "Message" : "Test"
+    }
+  ]
 }
