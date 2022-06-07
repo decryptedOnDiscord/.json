@@ -1,7 +1,7 @@
 {
   "Cracky" : [
     {
-      "EnableLaunchFn" : "false",
+      "EnableLaunchFn" : "true",
       "Message" : "Working on 21.00, we will enable launching when done."
     }
   ]
